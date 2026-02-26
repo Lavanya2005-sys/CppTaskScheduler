@@ -218,5 +218,3 @@ Metrics exported to metrics.json
 - Lock-free queue implementation
 - Work-stealing scheduler
 - Unit testing suite
-
--
