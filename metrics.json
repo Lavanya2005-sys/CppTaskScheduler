@@ -1,0 +1,7 @@
+{
+  "total_tasks": 5000,
+  "total_time_sec": 0.009,
+  "average_latency_us": 4458.78,
+  "max_latency_us": 8526.6,
+  "min_latency_us": 8.4
+}
